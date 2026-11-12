@@ -4,5 +4,14 @@
         <title>Bukku Changelog</title>
         <description>Updates to Bukku, the browser launcher for macOS.</description>
         <language>en</language>
+        <item>
+            <title>Bukku 1.0.0</title>
+            <pubDate>Thu, 12 Nov 2026 10:41:00 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Initial release.</p>]]></description>
+            <enclosure url="https://aleksgorbenko.dev/apps/bukku/download/v1.0.0/Bukku-1.0.0.dmg" length="5813023" type="application/octet-stream" sparkle:edSignature="6iVSXuTan9+t9mLuYNrRpBtFsawnQaAl3hB+iAYO+3aakJhNMvwLAbnZ5WOoc4eymjH5u/1+0DTvivSRzWNlDg=="/>
+        </item>
     </channel>
 </rss>
